@@ -1,0 +1,32 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 20px 30px gray;
+}
+#second-page{
+    display: none;
+}
+.shape{
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+.first{
+    background-color: blue;
+}
+.second{
+    background-color: chartreuse;
+}
+.third{
+    background-color: salmon;
+}
+.fontbold{
+    font-weight: 800;
+}
+.row{
+    margin-top: 40px;
+}
